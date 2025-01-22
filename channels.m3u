@@ -28,7 +28,7 @@ https://edge-live02-mun.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+https://edge-live02-mun.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
 #EXTINF:-1 tvg-id="Fox.Sports.2.Argentina.ar" tvg-logo="argentina/fox-sports-2-ar.png" group-title="Futbol Argentino",Fox Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
