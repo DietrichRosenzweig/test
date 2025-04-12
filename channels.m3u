@@ -55,10 +55,11 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_e
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 #EXTINF:-1 tvg-id="ESPN.4.Latin.America.HDTV.(Southern.Feed.-.Premium).(ESPN4).ar" tvg-logo="argentina/espn-premium-ar.png" group-title="Futbol Argentino",ESPN Premium
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://edge7-ccast-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="argentina/tyc-sports-ar.png" group-title="Futbol Argentino",TYC SPORTS PLAY
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="argentina/tyc-sports-ar.png" group-title="Futbol Argentino",TYC SPORTS PLAY V2
