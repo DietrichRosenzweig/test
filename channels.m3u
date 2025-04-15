@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
 https://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd
-#EXTINF:-1 tvg-id="Canal.ESPN.(Argentina).ar" tvg-logo="argentina/espn-ar.png" group-title="Futbol Argentino",ESPN
+#EXTINF:-1 tvg-id="ESPN.Test" tvg-logo="argentina/espn-ar.png" group-title="Futbol Argentino",ESPN
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,7 +16,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://a.b
+https://asd.com.ar
 #EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-logo="argentina/espn-2-ar.png" group-title="Futbol Argentino",ESPN 2
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
