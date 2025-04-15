@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<channel id="ESPN.Test">
+<display-name>Canal de Prueba</display-name>
+</channel>
+<programme start="20250413230000 +0000" stop="20250414011000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter - Relato</title>
+ <desc lang="es">El relato en vivo de los partidos más destacados de la Primera División del fútbol argentino.</desc>
+</programme>
+<programme start="20250414011000 +0000" stop="20250414030000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN Fútbol 1</title>
+ <desc lang="es">Las jugadas más destacadas, los goles, las polémicas y un profundo análisis del fútbol argentino y todo lo que lo rodea. La palabra de los protagonistas y el mejor cierre para el domingo con el deporte que tanto los apasiona.</desc>
+</programme>
+<programme start="20250414030000 +0000" stop="20250414050000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250414050000 +0000" stop="20250414070000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250414070000 +0000" stop="20250414080000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN Compact - English Premier League</title>
+ <desc lang="es">Liverpool se enfrenta a West Ham Utd. por la fecha 32 de la Premier League.</desc>
+</programme>
+<programme start="20250414080000 +0000" stop="20250414100000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250414100000 +0000" stop="20250414130000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+</programme>
+<programme start="20250414130000 +0000" stop="20250414140000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250414140000 +0000" stop="20250414160000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F12</title>
+ <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
+</programme>
+<programme start="20250414160000 +0000" stop="20250414180000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F90 - Primera edición</title>
+ <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.</desc>
+</programme>
+<programme start="20250414180000 +0000" stop="20250414193000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F3</title>
+ <desc lang="es">Martín Souto conduce un espacio que aborda la agenda futbolística de forma descontracturada y junto a diversos expertos invitados. Los panelistas deberán elegir sus podios de mejores futbolistas, equipos, jugadas, goles y mucho más.</desc>
+</programme>
+<programme start="20250414193000 +0000" stop="20250414200000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250414200000 +0000" stop="20250414210000 +0000" channel="ESPN.Test">
+ <title lang="es">Generación F</title>
+ <desc lang="es">Un espacio que busca, desde una mirada creativa, informar y divertir a la audiencia con lo más relevante de la agenda deportiva, con todo el humor, la frescura y espontaneidad para llegarle a los televidentes y fanáticos del stream.</desc>
+</programme>
+<programme start="20250414210000 +0000" stop="20250414220000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F360</title>
+ <desc lang="es">Luciana Rubinska y su gran equipo con toda la actualidad del fútbol argentino y del exterior. Noticias al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.</desc>
+</programme>
+<programme start="20250414220000 +0000" stop="20250414233000 +0000" channel="ESPN.Test">
+ <title lang="es">Equipo F</title>
+ <desc lang="es">Gustavo López conduce un panel lleno de figuras para analizar y debatir sobre el fútbol argentino, más la Conmebol Libertadores y la Conmebol Sudamericana.</desc>
+</programme>
+<programme start="20250414233000 +0000" stop="20250415000000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250415000000 +0000" stop="20250415021000 +0000" channel="ESPN.Test">
+ <title lang="es">Liga Profesional 2025</title>
+ <desc lang="es">Vive los partidos del primer torneo de la 96º edición de la Primera División del fútbol argentino. Serán 30 equipos divididos en 2 zonas. Los mejores 8 de cada una accederán a la instancia final de playoffs.</desc>
+</programme>
+<programme start="20250415021000 +0000" stop="20250415030000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F10</title>
+ <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Germán Paoloski para encenderte con los debates de un gran panel de especialistas.</desc>
+</programme>
+<programme start="20250415030000 +0000" stop="20250415040000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250415040000 +0000" stop="20250415050000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250415050000 +0000" stop="20250415060000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250415060000 +0000" stop="20250415070000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250415070000 +0000" stop="20250415080000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250415080000 +0000" stop="20250415090000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250415090000 +0000" stop="20250415100000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250415100000 +0000" stop="20250415130000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Un ciclo que nos acerca lo mejor del deporte todos los días. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional, pero con especial énfasis, sobre todo lo referente al deporte sudamericano.</desc>
+</programme>
+<programme start="20250415130000 +0000" stop="20250415140000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250415140000 +0000" stop="20250415160000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F12</title>
+ <desc lang="es">Espacio informativo para analizar todo lo que sucede en el ámbito local e internacional, con periodistas en vivo desde los entrenamientos de los más destacados equipos del fútbol argentino.</desc>
+</programme>
+<programme start="20250415160000 +0000" stop="20250415180000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F90 - Primera edición</title>
+ <desc lang="es">Un espacio que cuenta con toda la información y destacados sobre el fútbol argentino e internacional. El debate más picante, las mejores entrevistas y el más profundo análisis.</desc>
+</programme>
+<programme start="20250415180000 +0000" stop="20250415183000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F3</title>
+ <desc lang="es">Martín Souto conduce un espacio que aborda la agenda futbolística de forma descontracturada y junto a diversos expertos invitados. Los panelistas deberán elegir sus podios de mejores futbolistas, equipos, jugadas, goles y mucho más.</desc>
+</programme>
+<programme start="20250415183000 +0000" stop="20250415205500 +0000" channel="ESPN.Test">
+ <title lang="es">UEFA Champions League</title>
+ <desc lang="es">Vive los partidos de la 70º edición de la competición internacional de fútbol más prestigiosa a nivel de clubes.</desc>
+</programme>
+<programme start="20250415205500 +0000" stop="20250415220000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F360</title>
+ <desc lang="es">Luciana Rubinska y su gran equipo con toda la actualidad del fútbol argentino y del exterior. Noticias al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.</desc>
+</programme>
+<programme start="20250415220000 +0000" stop="20250415233000 +0000" channel="ESPN.Test">
+ <title lang="es">Equipo F</title>
+ <desc lang="es">Gustavo López conduce un panel lleno de figuras para analizar y debatir sobre el fútbol argentino, más la Conmebol Libertadores y la Conmebol Sudamericana.</desc>
+</programme>
+<programme start="20250415233000 +0000" stop="20250416020000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
+</programme>
+<programme start="20250416020000 +0000" stop="20250416030000 +0000" channel="ESPN.Test">
+ <title lang="es">ESPN F10</title>
+ <desc lang="es">No hay mejor manera que terminar el día bien informado con el repaso de todo lo sucedido en materia fútbol. Sumate al equipo liderado por Germán Paoloski para encenderte con los debates de un gran panel de especialistas.</desc>
+</programme>
+<programme start="20250416030000 +0000" stop="20250416040000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250416040000 +0000" stop="20250416050000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
+<programme start="20250416050000 +0000" stop="20250416060000 +0000" channel="ESPN.Test">
+ <title lang="es">SportsCenter</title>
+ <desc lang="es">Los hechos principales, las imágenes que marcaron el día, temas fundamentales y controvertidos. Información veraz y opinión transparente del mundo del deporte, sin renunciar al buen humor.</desc>
+</programme>
