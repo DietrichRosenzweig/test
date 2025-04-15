@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" catchup="append" catchup-days="2" refresh="10" url-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/" billed-msg="Bienvenido a Futbol Max"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://raw.githubusercontent.com/DietrichRosenzweig/test/refs/heads/main/EPG_test.xml" catchup="append" catchup-days="2" refresh="10" url-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/" billed-msg="Bienvenido a Futbol Max"
 #EXTINF:-1 tvg-id="DeporTV.(DEPTV).ar" tvg-logo="argentina/deportv-ar.png" group-title="Futbol Argentino" group-logo="https://img.icons8.com/?size=100&id=aFEiFfDodGwe&format=png&color=000000",DeporTV Flow
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
