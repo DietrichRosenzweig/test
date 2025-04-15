@@ -16,7 +16,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://cdn.cvattv.com.ar/nPVR/c3eds/280_ESPN_T_202504151000-202504151330_ON_Anevia3/SA_Live_dash_enc_C/ESPN2HD.mpd
+https://cdn.cvattv.com.ar/nPVR/c3eds/280_ESPN_T_202504132300-202504140110_ON_Anevia3/SA_Live_dash_enc_C/ESPN2HD.mpd
 #EXTINF:-1 tvg-id="ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar" tvg-logo="argentina/espn-2-ar.png" group-title="Futbol Argentino",ESPN 2
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
