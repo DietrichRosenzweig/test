@@ -22,7 +22,7 @@ https://asd.com.ar
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd
+https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDIzMDkzIiwic2lwIjoiMTg2LjE1OC4xNDUuNjIiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRVNQTjJfQXJnL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNiNzBlNDQ3OTM1YTdmZjMiLCJzZXNzaW9uX2lkIjoiODE2MjQ2NTMtMTc1Mjg1MDI5My00NDAiLCJjbGllbnRfaWQiOiIxMzExNTY0MyIsImRldmljZV9pZCI6IjgxNjI0NjUzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMTM5Iiwic291cmNlcyI6Wzg1LDE0NCwxOTIsODYsODhdfQ==.C_dkmTg58VlmZdV3BcqcJgBYslMi7JuGosb87S5y8tTJegHRudjyfzftPY2wE9k6KS3oZ8gioUzBvT3hQL6WIg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd
 #EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-logo="argentina/espn-3-ar.png" group-title="Futbol Argentino",ESPN 3
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
