@@ -60,7 +60,7 @@ https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDUyODk1Iiwic2lwIjoiMTg2LjE1OC4xNDUuNjIiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI4Zjc1YTQ4Yzg3NjNlOTQyIiwic2Vzc2lvbl9pZCI6IjgxNjMyMjMyLTE3NTI4ODAwOTUtNzI3IiwiY2xpZW50X2lkIjoiMTMxMTU2NDMiLCJkZXZpY2VfaWQiOiI4MTYzMjIzMiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjg0Iiwic291cmNlcyI6WzE5Miw4Nl19.co8IxitZ4am3dsobXbDlhEGz_q3jaIbmMb5KUOBiAC2ejRN9jcNEeGtzXk4jR8Ze4HP7J-8_8D8T3X4h2WvgpA==/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd
 #EXTINF:-1 tvg-id="tntsports" tvg-logo="argentina/tnt-sports-ar.png" group-title="Futbol Argentino",TNT Sports
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
+#EXTHTTP:{"Origin":"https://portal.app.flow.com.ar", "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
