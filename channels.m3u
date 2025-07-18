@@ -10,7 +10,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
+https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDIzMDkzIiwic2lwIjoiMTg2LjE1OC4xNDUuNjIiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRVNQTjJfQXJnL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImNiNzBlNDQ3OTM1YTdmZjMiLCJzZXNzaW9uX2lkIjoiODE2MjQ2NTMtMTc1Mjg1MDI5My00NDAiLCJjbGllbnRfaWQiOiIxMzExNTY0MyIsImRldmljZV9pZCI6IjgxNjI0NjUzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMTM5Iiwic291cmNlcyI6Wzg1LDE0NCwxOTIsODYsODhdfQ==.C_dkmTg58VlmZdV3BcqcJgBYslMi7JuGosb87S5y8tTJegHRudjyfzftPY2wE9k6KS3oZ8gioUzBvT3hQL6WIg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd
 #EXTINF:-1 tvg-id="ESPN.Test" catchup-days="2" tvg-logo="argentina/espn-ar.png" catchup-source="280_ESPN_T_{{shift:start:+3h}}{{shift:end:+3h30m}}${start-year}${start-mon}${start-day}${start-hour}${start-min}-${end-year}${end-mon}${end-day}${end-hour}${end-min}_ON_Anevia3/SA_Live_dash_enc_C/ESPN2HD.mpd" group-title="Futbol Argentino",ESPN Testinmg
 #EXTHTTP:{"Origin":"https://portal.app.flow.com.ar"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
