@@ -1,5 +1,6 @@
 #EXTM3U  catchup-type="append" refresh="10" url-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/" billed-msg="Bienvenido a Futbol Max"
 #EXTINF:-1 tvg-id="DeporTV.(DEPTV).ar" tvg-logo="argentina/deportv-ar.png" group-title="Futbol Argentino" group-logo="https://img.icons8.com/?size=100&id=aFEiFfDodGwe&format=png&color=000000",DeporTV Flow
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
