@@ -1,0 +1,296 @@
+Categoria;Futbol Argentino;https://img.icons8.com/?size=100&id=aFEiFfDodGwe&format=png&color=000000
+DeporTV Flow;DeporTVHD,3;f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928;DeporTV.(DEPTV).ar;argentina/deportv-ar.png;
+ESPN;ESPN2HD,3;e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34;ESPN.2.(Argentina).(ESPN.2).ar;argentina/espn-ar.png;
+ESPN 2;ESPN2_Arg,6;65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e;ESPN.3.HDTV.South.(Latin.America).(ESPN3HD).ar;argentina/espn-2-ar.png;
+ESPN 3;ESPN3,3;f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38;ESPN.3.South.(Latin.America).(ESPN3).ar;argentina/espn-3-ar.png;
+ESPN 4;ESPNHD,3;cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf;ESPN.4.LatinAmerica.HDTV.(Southern.Feed.-.Premium).ar;argentina/espn-extra-ar.png;
+Fox Sports;FoxSports,3;cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b;Fox.Sports.2.HDTV.Latin.America.(FOXSP2HD).ar;argentina/fox-sports-ar.png;
+Fox Sports 2;FoxSports2HD,3;c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f;Fox.Sports.2.Argentina.ar;argentina/fox-sports-2-ar.png;
+Fox Sports 3;FoxSports3HD,3;55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b;Fox.Sports.3.HDTV.(Cono.Sur).(FOXSP3HD).ar;argentina/fox-sports-3-ar.png;
+TyC Sports;TyCSport,7;2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b;Torneos.y.Competencias.(Argentina).(TYC).ar;argentina/tyc-sports-ar.png;
+TyC Sports Internacional;TyC_Internacional,3;58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb;Torneos.y.Competencias.HDTV.(TYCHD).ar;argentina/tyc-sports-ar.png;
+TNT Sports;TNT_Sports_HD,6;bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a;tntsports;argentina/tnt-sports-ar.png;
+ESPN Premium;Fox_Sports_Premiun_HD,7;4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257;ESPN.4.Latin.America.HDTV.(Southern.Feed.-.Premium).(ESPN4).ar;argentina/espn-premium-ar.png;
+#DirecTV Sports;*phpexample2;directvlivehd;DSPORTS.(ARG).dtvsp;world-latin-america/dsports-lam.png;
+#DirecTV Sports OPCION2;*phptucanaldeportivo;*;DSPORTS.(ARG).dtvsp;world-latin-america/dsports-lam.png;
+TYC SPORTS PLAY;https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8;*;;argentina/tyc-sports-ar.png;
+TYC SPORTS PLAY V2;https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8;*;;argentina/tyc-sports-ar.png;
+TYC SPORTS PLAY V3;https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8;*;;argentina/tyc-sports-ar.png;
+TYC SPORTS PLAY V4;https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8;*;;argentina/tyc-sports-ar.png;
+TYC SPORTS PLAY V5;https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8;*;;argentina/tyc-sports-ar.png;
+TYC SPORTS PLAY V6;https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8;*;;argentina/tyc-sports-ar.png;
+TYC SPORTS PLAY V7;https://d2epjg24mgndbw.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8;*;;argentina/tyc-sports-ar.png;
+TYC SPORTS PLAY V8;https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8;*;;argentina/tyc-sports-ar.png;
+
+Categoria;HBO Pack Premium;https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png
+HBO HD;HBOHD,4;5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28;HBO.Latin.America.(East).(HBO).ar;argentina/hbo-ar.png;
+HBO Plus;HBO_Plus,6;f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d;HBO.Plus.(Mexico).(HBO+).ar;argentina/hbo-plus-ar.png;
+HBO Mundi;HBO_Mundi,6;7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328;HBO.MUNDI.(Mexico).(HBOMUN).ar;argentina/hbo-family-ar.png;
+HBO POP;HBO_POP,7;f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6;HBO.POP.HDTV.(Panamerican).(HBOPOP).ar;argentina/hbo-pop-ar.png;
+HBO Xtreme;HBO_Extreme,6;d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58;HBO.Xtreme.Panamericano.(HBOXTR).ar;argentina/hbo-xtreme-ar.png;
+HBO Family;HBO_Family,6;535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297;HBO.Family.(East).(HBOFe).ar;argentina/hbo-family-ar.png;
+HBO 2;HBO_2,6;c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d;HBO.2.(Panamerican).(HBO.2).ar;argentina/hbo-2-ar.png;
+HBO Signature;HBO_Signature,6;e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311;HBO.Signature.(Panamerican).(HBOSG).ar;argentina/hbo-signature-ar.png;
+
+Categoria;Universal+ Pack Premium;https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/universal-tv-ar.png
+Universal Premiere;Universal_Premiere,6;0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097;UNIVERSAL.PREMIERE.uy;world-latin-america/universal-premiere-lam.png;
+Universal Cinema;Universal_Cinema,6;f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2;UNIVERSAL.CINEMA.uy;world-latin-america/universal-cinema-lam.png;
+Universal Comedy;Universal_Comedy,6;062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d;UNIVERSAL.COMEDY.uy;world-latin-america/universal-comedy-lam.png;
+Universal Crime;universal_Crime,6;1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d;UNIVERSAL.CRIME.uy;world-latin-america/universal-crime-lam.png;
+Universal Reality;Universal_Reality,6;cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435;UNIVERSAL.REALITY.uy;world-latin-america/universal-reality-lam.png;
+
+Categoria;Deportes;https://img.icons8.com/?size=100&id=45732&format=png&color=000000
+GOLF TV;Golf_Channel,6;38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b;;argentina/golf-channel-ar.png;
+#Real Madrid TV;https://dtvott-abc.akamaized.net/dash_live_1266/manifest.mpd;68a70c3037645826ab4f76dea4daff0f:14591b1352e00f9768996a7fc80affae;Real.Madrid.TV.es;spain/real-madrid-tv-es.png;
+DeporTV;https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd;00a775d1b96b5951b3c3ab5799f9868e:a23963cb8c237eef94169018b6cf03a1;DeporTV.(DEPTV).ar;argentina/deportv-ar.png;
+DirecTV Sports Radio;https://dtvott-abc.akamaized.net/dash_live_1262/manifest.mpd;60a558c609945c9a8b89db26b445a0aa:b56b45d914b8342684afdd5612db74d3;DTVSportsRadio;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzEzX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716448222717;
+DirecTV Sports 2;https://dtvott-vos-mt.akamaized.net/live_1063/DASH/manifest.mpd;c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5;DSPORTS.2.HD.dtvsp;world-latin-america/dsports2-lam.png;
+DirecTV Sports +;https://dtvott-bpk-bpk.akamaized.net/dash_live_1071/manifest.mpd;f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e;DSPORTS.+.HD.dtvsp;world-latin-america/dsports-plus-lam.png;
+DirecTV Sports Partidos 1;https://dtvott-cbc.akamaized.net/dash_live_1068/manifest.mpd;2c1b10362c89516590a6601a3cc6f27b:5eb86e1430e72709e99f7a79a75123c0;DTVSportsEventos;world-latin-america/dsports-lam.png;
+DirecTV Sports Partidos 2;https://dtvott-cbc.akamaized.net/dash_live_1069/manifest.mpd;a8cf52be0eb358c9a8bfcd1fc94d7cb5:916bc8bc00522ff1fe95ab915704b036;DTVSportsEventos2;world-latin-america/dsports-lam.png;
+DirecTV Sports Partidos 3;https://dtvott-vos-mt.akamaized.net/live_1065/DASH/manifest.mpd;20d4a24cd8aa3498b9bf17e5d796c0f7:054995035d22d64d4f9bf0a69947bf49;DSPORTS.(ARG).dtvsp;world-latin-america/dsports-lam.png;
+DTVSports Motor;https://dtvott-bpk-bpk.akamaized.net/dash_live_1279/manifest.mpd;86531a9305d65cb78b18b2c14024320e:0070dbc490f3b5edfe1f68503fb6402c;DSports.Motor.dtvsp;https://static.wikia.nocookie.net/logopedia/images/d/dc/DSportsMotor.png/revision/latest?cb=20230923000806;
+DTVSports Fight;https://dtvott-bpk-bpk.akamaized.net/dash_live_1259/manifest.mpd;36b2c6b7736a5901bf408916a454abf9:9bd7ec1ba802a7164edacaa493c2347c;DTVSportsFight;https://static.wikia.nocookie.net/logopedia/images/1/16/DSportsFight2022.png/revision/latest?cb=20231023211335&path-prefix=es;
+El Garage;El_Garage,6;03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d;El.Garage.TV.-.South.(Latin.America).(GARAG).ar;argentina/el-garage-tv-ar.png;
+NBA TV;NBA_TV,6;d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117;NBA.TV.(NBATV).do;argentina/nba-tv-ar.png;
+PX Sports;PX_Sports,3;9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad;PX.Sports.HD(PXSHD).co;argentina/px-sports-ar.png;
+America Sports;America_Sports,6;a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2;;argentina/america-sports-ar.png;
+
+Categoria;Noticias;https://img.icons8.com/?size=100&id=532&format=png&color=000000
+Somos Norte;Somos_Norte,6;ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0;;argentina/somos-pergamino-ar.png;
+Metro;Metro,6;719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e;Metro;argentina/metro-ar.png;
+Telefe Rosario;Canal_5_Rosario,4;c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc;AR-Gigared.TELEFE.SANTA.FE.ar;argentina/telefe-ar.png;
+Telefe Cordoba;Canal_8_CBA,6;103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f;Telefé.(TELFE2).ar;argentina/telefe-ar.png;
+Diputados TV;Diputados_TV,6;9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0;DiputadosTV;argentina/dtv-diputados-television-ar.png;
+Canal 26 ;26_TV_HD,6;e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092;Canal.26.Noticias.(26TV).ar;argentina/canal-26-ar.png;
+Eurochannel;Eurochannel,6;6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee;Eurochannel.(EUROCHN).pa;argentina/euro-channel-ar.png;
+Television Publica;Canal7,6;cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662;TV.Pública.(PUBLICA).ar;argentina/television-publica-ar.png;
+Telefe;TelefeHD,4;3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323;Telefé.HDTV.(TLFHD).ar;argentina/telefe-ar.png;
+DTVGo News;DNews,7;21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e;DTVGoNews;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716326078084;
+A24;America24,4;3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8;América.24.(AME24).ar;argentina/a24-ar.png;
+América TV;AmericaTV,3;8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45;América.TV.HDTV.(AMERHD).ar;argentina/america-ar.png;
+C5N;C5N,3;050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4;C5N.(C5N).ar;argentina/c5n-ar.png;
+Canal Ã;Canal_a,6;324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae;CanalA;argentina/canal-a-ar.png;
+CNN;CNN_en_Espanol,3;0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a;Cable.News.Network.en.Español.(Latin.America).(CNNESP).ar;argentina/cnn-en-espanol-ar.png;
+#CNN Newsroom;https://dtvott-cbc.akamaized.net/dash_live_1051/manifest.mpd;00040cc0248852ea8893be5dd23a9e2a:266756a8b99f6614bf33cddf7c999f9e;CNNNewsroom;argentina/cnn-en-espanol-ar.png;
+Crónica TV;CronicaTV,4;745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352;Crónica.TV./.Canal.(CRONTV).ar;argentina/cronica-hd-ar.png;
+El Nueve;Canal9,3;24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020;Canal.Nueve.(CNL9).ar;argentina/elnueve-ar.png;
+El Trece;ArtearHD,3;5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76;El.Trece.(Canal.13).(CNL13).ar;argentina/eltrece-ar.png;
+Encuentro;Encuentro,6;ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198;Encuentro.(ENCU).ar;argentina/encuentro-ar.png;
+LN+;La_Nacion,3;f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c;LNMAS;argentina/la-nacion-mas-ar.png;
+TN;TodoNoticias,4;7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21;TN.(Todo.Noticias).Argentina.(TN).ar;argentina/tn-todo-noticias-ar.png;
+IP Noticias;Investigacion_Periodistica,7;5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1;IPnoticias;argentina/ip-informacion-periodistica-ar.png;
+Canal 90;Canal_90,6;ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426;;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjDjYVhDZbqOJbkoQM9g2XcpnM7P014jWWbiV966OJIHKYNSP_WuPq_8YcUXtKC05vWonaVQdgdwowsqNGIqLKaEKYCyU5NtkO8M6Zy7csDhhsycu4STVQPrKbkJ3ptCJBI_RRYKlGJ6a/s400/canal90digitalcablevisi.png;
+Canal de la ciudad;Canal_de_la_ciudad,6;5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7;Ciudad.Abierta.(ABIER).ar;argentina/canal-de-la-ciudad-ar.png;
+Somos La Plata;Somos_La_Plata,6;bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e;;argentina/somos-pergamino-ar.png;
+Somos Rosario;Somos_Rosario,5;863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2;;argentina/somos-pergamino-ar.png;
+Somos Santa Fe;Somos_STF,5;1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d;;argentina/somos-pergamino-ar.png;
+Somos Salta-Jujuy;Somos_Salta,4;9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc;;argentina/somos-pergamino-ar.png;
+Somos Rafaela;Somos_Rafaela,4;7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25;;argentina/somos-pergamino-ar.png;
+Somos Mar del Plata;Canal_Ciudad_MDQ,4;b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3;;argentina/somos-pergamino-ar.png;
+Somos el Valle;Somos_El_Valle,4;513f2056bf40d9123918fd7939fbf065:075ee6dd9b67d88be5642eaa510e91cb;Somos.El.Valle.(KRGV-TV3).Weslaco,.TX.us;argentina/somos-pergamino-ar.png;
+Canal Córdoba;Canal_C,5;9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a;;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_04/large.149662702_CanalCARG.png.23727216c06f3a2756a46e13f0c6a876.png;
+Canal Universidad;Canal_Universidad,3;93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f;;https://unlp.edu.ar/wp-content/uploads/26/2526/49762dda2908c609b2ed4d5eec38b6c4.png;
+Alljazzera;Alljazzera,7;137a1a70fa118b695118a3aad9485b13:7c35ca36d4452dfa03d88725a0d16105;Al.Jazeera.HDTV.(English.-.North.America).(ALJAZEHD)..ec;united-kingdom/aljazeera-uk.png;
+Euronews;Euronews,6;d86b0f56d32f45adb0a6b4e488c8f0c2:e4f180b0e61be3e80ab602df5e56ff3f;Euronews.es;canada/euro-news-ca.png;
+DW Español;DW,6;e21fc12c6ee185fbc90a052b05026be9:0f96fd52903707aac0b42853a043ffd0;Deutsche.Welle.TV.Español.(DW-ES).ar;international/dw-int.png;
+TV Galicia;Tv_Galicia,6;23419f2a0a214038a94e24db13ee85a9:4c627ad6b8774e548e28d4aaf82a96a0;Galicia.TV.América.(GALICI).pa;spain/galicia-es.png;
+Canal de las Estrellas;Canal_de_las_estrellas,6;b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166;Las.Estrellas.(ESTRELLA).pa;mexico/las-estrellas-mx.png;
+Noticiero Unicanal;Canal_U,3;202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead;;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxcOYW5-997o8SQEKUgM4r3tqHvfkrjvBbA&s;
+France 24 Español;France24_Flow,3;c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6;France.24.(North.America.-.French).(F24)..ec;https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png;
+El tres Rosario;Canal_3_Rosario,3;662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0;Canal.3.Rosario.(ARTEAR).(CANAL3).[1008].cr;argentina/eltres-tv-ar.png	
+
+
+Categoria;Peliculas y series;https://img.icons8.com/?size=100&id=11441&format=png&color=000000
+TNT;TNT_HD_Arg,3;faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0;TNT.Latin.America.HDTV.(Pan-Regional).(TNTHD).ar;argentina/tnt-ar.png;
+A3 Cine;A3_Cine,7;d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae;A3Cine.(A3CINE).us;https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png;
+Discovery Science;Discovery_Science,6;46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597;Discovery.Science.International.(DSCI).ar;argentina/discovery-science-ar.png;
+CINEAR;INCAA_Tv,6;d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df;INCAA.TV.(INCAATV).ar;argentina/cine-ar-ar.png;
+Hola TV;Hola_TV,7;5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc;Hola.Tv.cl;argentina/hola-tv-ar.png;
+WOBI;WOBI,6;f2e44a719947ebfe37de527a9d6df71e:029bddeb08909dd66a80276fc338d692;World.of.Business.Ideas.(WOBI).ar;argentina/wobi-ar.png;
+Volver;Volver,6;194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe;volver;argentina/volver-ar.png;
+Space;Space,3;0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909;Space.(Sur).(SPACE).ar;argentina/space-ar.png;
+FX;FXHD,3;9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff;FX.Latin.America.(Argentina).(FX).ar;argentina/fx-ar.png;
+Mas Chic;Mas_Chic,6;dac8ff1688994efd898222acdd05cafc:22fdf97c7233667518258ed16ccb2545;Más.Chic.TV.International.(MASCHINT).ar;argentina/mas-chic-ar.png;
+Studio Universal;Studio_Universal,6;d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8;Studio.Universal.(Argentina).(STUNI).ar;argentina/studio-universal-ar.png;
+Universal Channel;Universal_Channel_HD,6;6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f;Universal.Channel.(Argentina).(UNIVE).ar;argentina/universal-tv-ar.png;
+Warner HD;WarnerHD,7;069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775;Warner.Channel.(Argentina).(WARNER).ar;argentina/warner-channel-ar.png;
+Sun Channel;Sun_Channel,6;158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4;Sun.Channel.cl;argentina/sun-channel-ar.png;
+Cinecanal;CinecanalHD,3;6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948;Cinecanal.(Argentina).(CINE).ar;argentina/cine-canal-ar.png;
+AMC;AMC,3;1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33;AMC.Networks.HDTV.(South).(AMCHD).ar;argentina/amc-ar.png;
+Argentinisima;Argentinisima,6;a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b;Argentiní­sima.Satelital.(ARG).ar;argentina/argentinisima-satelital-ar.png;
+Adult Swim;Adult_Swim,3;9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15;Adult.Swim.(ADSM).ca;canada/adult-swim-ca.png;
+Animal Planet;AnimalPlanet,7;4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd;Animal.Planet.Internacional.(Argentina).(ANIMAL).ar;argentina/animal-planet-ar.png;
+A3Series;A3_Series,7;5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b;Atreseries.es;argentina/atreseries-ar.png;
+AE;AEHD,7;db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe;AE;https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png;
+AXN;AXNHD,7;03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880;AXN.(Argentina).(AXN).ar;spain/axn-es.png;
+#Cine Latino;https://dtvott-cbc.akamaized.net/dash_live_1045/manifest.mpd;14c6468aad565259a32023577ac79a39:51638a61bf83b2ba06253831d986762c;Cine.Latino.(US).(CINEL).us;united-states/cine-latino-us.png;
+Cinemax;Cinemax,6;977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a;Cinemax.HDTV.(South).(CINEMAXHD).ar;argentina/cinemax-ar.png;
+Discovery;DiscoveryHD,3;c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d;The.Discovery.Channel.(Argentina).(DSC).ar;argentina/discovery-channel-ar.png;
+Discovery Home & Health;DiscoveryHomeHealthHD,3;9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f;Discovery.Home.and.Health.HDTV.(CHARVZ).(DH.and.HHD).ar;argentina/discovery-home-and-health-ar.png;
+Discovery ID;ID,7;0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c;Investigation.Discovery.(Argentina).(ID).ar;international/investigation-discovery-id-int.png;
+Discovery Theater;Theater_HD,6;5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108;Discovery.Theater.HDTV.(Latin.America).(THEATER).ar;argentina/discovery-theater-hd-ar.png;
+Discovery Turbo;DiscoveryTurbo,7;a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4;Discovery.Turbo.International.(DTUR).ar;argentina/discovery-turbo-ar.png;
+Discovery World;Discovery_World_HD,6;34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5;Discovery.World.HDTV.(Latin.America).(DWORLD).ar;argentina/discovery-world-hd-ar.png;
+E! Entertainment;E_Entertainment_Television,6;5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185;E!.Entertainment.Television.(Argentina).(E!).ar;united-states/e-entertainment-us.png;
+Europa Europa;Europa_Europa,6;b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2;Europa.Europa.(EE).ar;argentina/europa-europa-ar.png;
+Film & Art;Film_Arts,6;91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962;Film.and.Arts.(Latin.America).(F.and.A).ar;argentina/film-and-arts-ar.png;
+HGTV;Home_and_Garden,7;43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2;HGTV.Latin.America.HDTV.(Panregional).(HGTVHD).do;argentina/hgtv-ar.png;
+History Channel 2;History_2,6;ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415;The.History.Channel.HDTV.(Latin.America).(DCKHD).ar;argentina/history-channel-2-ar.png;
+History Channel;HistoryHD,7;e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db;The.History.Channel.(Argentina).(DSC).ar;argentina/history-channel-ar.png;
+IVC;https://1153-tbx.dtvott.com/ivcint/manifest.mpd;3b9eaad95dec53ee844ddeda294df21b:ec592d1f19db1fb2e7b6cf5b2e661598;;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARBDiYF4V5coQcr-wfseNgWmXOVT1V8ae-w&s;
+KZO;KZO,6;695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a;KZO;argentina/kzo-ar.png;
+Lifetime;Lifetime,6;eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d;Lifetime.(Latin.America).(LIFETIME).ar;argentina/lifetime-ar.png;
+Ciudad Magazine;Magazine,3;4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692;;argentina/ciudad-magazine-ar.png;
+National Geographic;NatGeoHD,3;4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16;National.Geographic.Channel.(PAL./.Argentina).(NGC).ar;argentina/national-geographic-ar.png;
+NET TV;Net_TV,6;89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68;;argentina/net-tv-ar.png;
+OnDirecTV;https://dtvott-bpk-bpk.akamaized.net/dash_live_1178/manifest.mpd;64e744367e16508f98ba279b3357ed28:d302a34e6d29eda20b0b0ba315b261ea;;https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/OnDIRECTV_Latin_America_2018.svg/1024px-OnDIRECTV_Latin_America_2018.svg.png;
+Paramount;Paramount,7;b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7;PARAMOUNT.uy;argentina/paramount-network-ar.png;
+Pasiones TV;Pasiones,7;d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a;PASIONES.uy;argentina/pasiones-ar.png;
+Sony Movies;Sony_Movies,7;88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa;Sony.Movie.Channel.HD.(SONYHD).do;united-states/sony-movies-us.png;
+Sony Channel;SonyHD,7;fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812;Sony.Entertainment.Television.(Argentina).(SONY).ar;argentina/sony-channel-ar.png;
+Star Channel (Sur);FOXHD,3;8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f;Star.HDTV.(Latin.America).(FOXHD).ar;argentina/star-channel-ar.png;
+Telemundo Internacional;Telemundo_HD,7;53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e;Telemundo.(Latin.America./.Non-US).(TELEMUND).do;argentina/telemundo-international-ar.png;
+Discovery TLC;TLC,6;58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47;TLC.(Argentina).(TLC).ar;argentina/tlc-ar.png;
+TNT Series;TNTSeries,3;5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692;TNT.Series.Sur.SD.(TNTSERIE).ar;argentina/tnt-series-ar.png;
+USA;USA_Network,7;c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3;USA;brazil/usa-br.png;
+Bravo TV;BravoTV,7;ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93;Bravo.HDTV.(East).(BRAVOD).us;https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png;
+TCM;TCM,6;a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2;TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar;argentina/tcm-ar.png;
+Golden;Golden,6;b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571;Golden.(Latin.America).(GOLDL).do;world-latin-america/golden-lam.png;
+Comedy Central;ComedyCentral,7;4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416;Comedy.Central.(Latin.America.-.South).(COMCENTR).ar;argentina/comedy-central-ar.png;
+DHE;DHE,7;ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db;DHE.uy;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png;
+TNT Novelas;TBS,6;49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612;TNT.Novelas.(Sur).(TBS).ar;world-latin-america/tnt-novelas-lam.png;
+Telenovelas;Telenovelas,6;60cb38a05880cd0eb429f71398609540:c251aac7943c0d1324aa9a4129f3afd4;AR-Gigared.TLNOVELAS.ar;world-latin-america/tlnovelas-lam.png;
+Telemax;Telemax,6;e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8;Telemax.(TLMAX).ar;argentina/telemax-ar.png;
+
+
+Categoria;Canales Rurales;https://img.icons8.com/?size=100&id=WOfduV9H9u7F&format=png&color=000000
+Chacra TV;Chacra_TV,3;b2b0364a95feb428933fd2396e99b187:b301ecdcc386fc4dc59e8ad547bbcd3c;;https://www.agritotal.com/files/image/20/20134/582bad97763bf_260_240!.png?s=35f30b684f0ce764af6f503d8eb9e75f&d=1718017952;
+Canal Rural;Canal_Rural,6;b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad;Canal.Rural.Satelital.(RURAL).ar;argentina/canal-rural-ar.png;
+
+Categoria;Religión;https://img.icons8.com/?size=100&id=XlgQaOgY03od&format=png&color=000000
+Santa Maria;Senal_Maria,3;d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a;;argentina/canal-santa-maria-ar.png;
+Canal Orbe 21;Canal_21,6;29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945;Canal.Orbe.21.(CANAL21).ar;argentina/canal-orbe21-ar.png;
+EWTN;EWTN,6;07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e;EWTN.uy;argentina/ewtn-ar.png;
+Canal Luz;CANAL_LUZ,7;f7523ea5a2da78c465d928be1d81e2a5:870ad69e98abd52b443bd8f0204b3bc4;Luz.HDTV.(LUZHD).do;argentina/canal-luz-ar.png;
+
+Categoria;Adultos;https://img.icons8.com/?size=100&id=FAT2ReCbfdfA&format=png&color=000000
+Playboy;Playboy,6;8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb;Playboy.TV.Latin.America.and.Iberia.(PLYBY).ar;spain/playboy-tv-es.png;
+Venus;Venus,6;34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af;Venus.International.(VENUS).ar;argentina/venus-ar.png;
+
+Categoria;Musica;https://img.icons8.com/?size=100&id=71197&format=png&color=000000
+MTV;MTV_HD,6;0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad;MTV.Latin.America.(South.Feed).(MTV).ar;argentina/mtv-ar.png;
+MTV 2000;MTV00,7;1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1;MTV.&apos;00s.Latin.America.(North).(MTVLA).do;argentina/mtv-00s-ar.png
+MTV Hits;MTV_Hits,6;61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0;MTV.Hits.International.(Latin.America.English).(MTVHIT).mx;argentina/mtv-hits-ar.png;
+Eventos UY;Eventos_HD_Uy,7;48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca;EventosFlow2;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.eventosflow.png.419023ac712af2067bbde356803bac28.png;
+Eventos 1;Eventos1HD,3;5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb;EventosFlow;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.eventosflow.png.419023ac712af2067bbde356803bac28.png;
+Flow Music;Flow_Music,7;f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0f;FlowMusic;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.231842198_FlowMusic.png.dbc94868bd50bc4022e30989afd88e00.png;
+Quiero;Quiero_HD,6;a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28;QM.Noticias.(QMNOT).ar;argentina/quiero-musica-en-mi-idioma-ar.png;
+Flow Gaming;Flow_GamingXP,4;96fcf22665ee1f5ab73287914279c4e0:f4df13f9d58fc9e908648cd7d5d8d989;;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEH2SlwwznQ4hLjQt-XdI00pEOuuXaRPqwA&s;
+Eventos 2;Eventos_2_HD,6;e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643;;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.eventosflow.png.419023ac712af2067bbde356803bac28.png;
+Vorterix;Vorterix,6;eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3;;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/large.2138035832_Vorterix(5).png.4c580f0a0521feb3a9871b2f09d9d75a.png;
+Allegro;AllegroHD,7;e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2;;argentina/allegro-hd-ar.png;
+HTV;HTV,6;daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d;HTV.Música.(HTV).ar;argentina/htv-ar.png;
+Nickmusic;Nickmusic,6;eae6c12ccab349e6ae675ab6ed8a476c:4a4fd86ea9db4417ec86c237d3111b18;Nick.Music.(NICM).ar;argentina/nick-music-ar.png;
+Eventos 3;Eventos_3,7;8b2fdf5a35d01a6ac888b7e8b1a2ddad:2c088b42e71dba1c572e7f04d2934430;;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.eventosflow.png.419023ac712af2067bbde356803bac28.png;
+Flow Music 2 ;Flow_Music_1,7;f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0;;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.231842198_FlowMusic.png.dbc94868bd50bc4022e30989afd88e00.png;
+Flow Music XP;Flow_Music_XP,7;b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7;;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_10/large.231842198_FlowMusic.png.dbc94868bd50bc4022e30989afd88e00.png;
+El Canal de la Musica;CM,6;682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25;;argentina/cm-el-canal-de-la-musica-ar.png;
+
+Categoria;Gran Hermano;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzU0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716275109207
+Gran Hermano 24hs (GRATIS);https://dtvott-vos-mt.akamaized.net/live_1289/DASH/manifest.mpd;92be0da472f63d9f85b9f0b9e6df5a81:2848888ff5bc5a104cde898cbc878c6f;GranHermano;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzU0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716275109207;
+Gran Hermano 24hs+ (PREMIUM);https://dtvott-vos-mt.akamaized.net/live_1282/DASH/manifest.mpd;de7d7ded48b437d691966acdc8a97262:0d11cc5d502e7894b364a4b7caabbff4;GranHermano24hs;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzU0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716275109207;
+Gran Hermano Cámara Exclusiva 1;https://dtvott-vos-mt.akamaized.net/live_1283/DASH/manifest.mpd;9551559085843488876b472cd5416000:a7dbd673c51a4c73522e7d1a240fa7bc;GranHermanoCAM1;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzU0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716275109207;
+Gran Hermano Cámara Exclusiva 2;https://dtvott-vos-mt.akamaized.net/live_1284/DASH/manifest.mpd;206ba28f691f34f88d8886cc42702c4c:7830b692416a413e1f31fb81a3bdf752;GranHermanoCAM2;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzU0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716275109207;
+Gran Hermano Cámara Exclusiva 3;https://dtvott-vos-mt.akamaized.net/live_1285/DASH/manifest.mpd;cd9941e77fc63100986acdcb6bcba661:dc9b59d9a8397b756bdd2607c7614476;GranHermanoCAM3;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzU0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716275109207;
+Gran Hermano Multicámara;https://dtvott-abc.akamaized.net/dash_live_1288/manifest.mpd;01ebc1407e4c5c2188cbb3e41b989c86:14b9bcaf85c42b985a9f2e0643f522ca;GranHermanoMULTICAM;https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzU0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1716275109207;
+
+Categoria;Cocina;https://img.icons8.com/?size=100&id=15220&format=png&color=000000
+ALC;https://dtvott-abc.akamaized.net/dash_live_1006/manifest.mpd;d9c83c9cca8b558cbb6947ca85517ac1:0c09d0436d83a9e7162056ba674e1fb8;ALC;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7bOnBCs6mSiuS2Mstii5tpp6dYEg8utOKqk8IHvl7kkjw7OSR2qXrEoe2sqK0lwwwA&usqp=CAU;
+El Gourmet;Gourmet,3;93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed;Elgourmet.com.(Sur).(G).ar;argentina/el-gourmet-ar.png;
+Food Network;Food_Network,6;6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd;Food.Network.HDTV.(East).(FOODHD).us;canada/food-network-ca.png;
+
+Categoria;Infantil;https://img.icons8.com/?size=100&id=gLKr7rUGRPUL&format=png&color=000000
+BabyTV;BabyTV,7;9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf;Baby.TV.(Latin.America).(BABYTV).ar;argentina/baby-tv-ar.png;
+Cartoon Network;CartoonNetwork,3;d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8;Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar;argentina/cartoon-network-ar.png;
+Cartoonito;Boomerang,7;5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6;Cartoonito.(Latin-America).(CTNO).ar;world-latin-america/cartoonito-lam.png;
+Discovery Kids;Discovery_Kids,6;ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b;Discovery.Kids.(Latin.America).(DSCKDS).ar;argentina/discovery-kids-ar.png;
+Disney Channel;DisneyChannelHD,3;4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda;Disney.en.EspaÃ±ol.(South.Feed).(DISNEY).ar;argentina/disney-channel-ar.png;
+Disney Jr;DisneyJr,7;bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac;Disney.Junior.(North.Feed).(DISJR).ar;argentina/disney-junior-ar.png;
+Nick Jr;Nick_Jr,6;e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083;Nick.Jr..HDTV.(Latinoamerica).(NICKJRHD)..ec;france/nickelodeon-junior-fr.png;
+Nickelodeon;Nickelodeon,3;61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a;Nickelodeon.(Latin.America./.South).(NICK).ar;argentina/nickelodeon-ar.png7;
+PAKA PAKA;PAKA_PAKA,6;334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7;Pakapaka.(PAKAPAKA).ar;argentina/pakapaka-ar.png;
+Dreamworks;Dreamworks,7;7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b;;world-latin-america/dreamworks-channel-lam.png;
+Tooncast;Tooncast,6;10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61;Tooncast.Latin.America.(TOONC).ar;argentina/tooncast-ar.png;
+Plim Plim;Plim_Plim,6;8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df;;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKnCJBCDJ8HtnYxT5X6VDVyiOxlNP4Y17yKA&s;
+
+Categoria;Noticias extranjeras;https://img.icons8.com/?size=100&id=t0pRVC1Kipju&format=png&color=000000
+[Corea] Arirang;Arirang,7;436d78a75fad9bdcc6d409640c116a62:c77471ac3b694513a9c5ff68b8d4fac5;Arirang.TV.HD.es;international/arirang-int.png;
+[Venezuela] Telesur;Telesur,6;5235d8ee29f14ce6b26ea5d828aee77a:6bf6bd339e3098babc2ab0b984cd2376;Telesur.es;https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png;
+[Chile] TV Chile;Tv_Chile,6;c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c;TV.Chile.(TVN.Internacional).(TVCHILE).ar;https://upload.wikimedia.org/wikipedia/commons/c/ca/Logotipo_de_TV_Chile_%281999-2004%29.png;
+[Paraguay] TELEFUTURO C4;TELEFUTURO_C4,4;5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1;Telefuturo.Canal.23.(TLFUT).do;https://upload.wikimedia.org/wikipedia/commons/2/23/Telefuturo_2017.png;
+[Paraguay] GEN TV;GEN_TV,7;49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698;GenTV;https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png;
+[España] TV España;TV_Espana,6;53e0a3741e2e4ff5843f165b53309088:45095caabd9a359cd7ea3910d865d643;TVspain;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjq-FgClFX1S7BSoz0rCaG-Y0BlRoaHn-KGcy3WDP4A&s;
+[España] Antena 3;Antena_3,6;1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92;Antena.3.(Mexico).(ANTENA.3).mx;spain/antena-3-es.png;
+[Francia] TV5 Monde;TV5_Monde,6;62034ff5988b477b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0;TV5MONDE.International.(TV5).ar;france/tv5-monde-fr.png;
+[Francia] France 24;France_24,6;72187f2651724db18505cdcad435841d:6f41e05476e34edf7bb9dc51f08f95df;France.24.(North.America.-.French).(F24)..ec;https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png;
+[Italia] Italia 1;https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd;00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587;Italia.HD.it;italy/italia1-it.png;
+[Italia] CANALE 5 IT;https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd;00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937;;
+[Italia] RAI;RAI,6;d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d;Rai.Italia.Nord.America.(RAIINT).ar;italy/rai-1-it.png;
+[Alemania] RTL DE;https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd;57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3;RTL.de;germany/rtl-de.png;
+[Estados Unidos] BBC World News;BBC_World_News,6;019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37;BBC.News.(Latin.America).(BBCWN).ar;united-kingdom/bbc-news-uk.png;
+[Estados Unidos] Fox News;Fox_News,6;3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868;Fox.News.Channel.(East).(FNC).ar;united-states/fox-news-us.png;
+[Estados Unidos] Bloomberg TV;Bloomberg,3;1e50891cdc64452aae20d049727f2f3f:551871ba1dc6a95597ec0cb82eb3b2a4;Bloomberg.TV.(US,EN).no;united-states/bloomberg-television-us.png;
+[Estados Unidos] CNN Internacional;CNN_Internacional,6;9f24708ad1184ee3a04b650941f9894b:e5bc7c5ff392119423dbf1c023a7b21c;Cable.News.Network.International.(CNNI).ar;united-states/cnn-us.png;
+[Peru] Latina;https://live-evg1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8;*https://tv360.bitel.com.pe;LATINA.(Latina).pe;https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2037-205_import.png;
+[Peru] America TV Peru;https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8;*https://tv360.bitel.com.pe;AMERICA.TELEVISION.(America.TV).pe;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png;
+[Peru] Willax;https://live-evg1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8;*https://tv360.bitel.com.pe;WILLAX.(Willax).pe;https://directostv.teleame.com/wp-content/uploads/2017/10/Willax-TV-en-vivo-Online.png;
+[Peru] Panamericana;https://live-evg1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8;*https://tv360.bitel.com.pe;PANAMERICANA.TELEVISION.(Panamericana.TV).pe;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panamericana_Televisi%C3%B3n.svg/645px-Panamericana_Televisi%C3%B3n.svg.png;
+[Peru] Exitosa;https://live-evg1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8;*https://tv360.bitel.com.pe;Exitosa;https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png;
+[Brasil] NEW Brasil;Bandeirantes,7;0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce;New.Brasil.pt;https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_04/large.1099009797_newbrasil-2.png.d4244ee62b4046057979e3b325e5c239.png;
+
+Categoria;Ligas extranjeras;https://img.icons8.com/?size=100&id=9820&format=png&color=000000
+[Uruguay] VTV;VTV_HD,3;b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a;VTV.uy;https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png;
+[Uruguay] VTV + [Flow];VTV_Plus_HD,3;da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070;VTV.+.HD.uy;https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png;
+[Arabia Saudita] SSC1;https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd;d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC2;https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd;8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC3;https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd;7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC4;https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd;5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC5;https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd;c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC EXTRA 1;https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd;ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC EXTRA 2;https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd;4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC EXTRA 3;https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd;98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[Arabia Saudita] SSC NEWS;https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd;3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60;SSC1;https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png?20230112035236;
+[España] DAZN La Liga;https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd;43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a;DAZN.LALIGA.es;spain/dazn-es.png;
+[España] DAZN La Liga 2;https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd;43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a;DAZN.LALIGA.2.es;spain/dazn-laliga-2-es.png;
+[España] La Liga Hypermotion;https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd;0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71;LALIGA.TV.HYPERMOTION.es;spain/laliga-tv-hypermotion-es.png;
+[España] DAZN 1 ES;https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd;44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0;DAZN.1.es;spain/dazn-1-es.png;
+[España] DAZN 2 ES;https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd;0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d;DAZN.2.es;spain/dazn-2-es.png;
+[España] DAZN FORMULA 1;https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd;1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa;;spain/dazn-f1-es.png;
+[Italia] INFINITY PLUS 1;https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd;00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076;;
+[Italia] INFINITY PLUS;https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd;00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53;;
+[Alemania] SPORT PLUS DE;https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd;c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f;;germany/sport1-plus-de.png;
+[Noruega] TV2 Sport NO;https://ch11-hls-live.akamaized.net/out/u/433127.mpd;d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2;TV.2.Sport.2.Norway.(NO,NO).no;nordic/norway/tv2-sport2-no.png;
+[Inglaterra] TNT 1 GB;https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd;ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d;TNT.Sports.1.uk;united-kingdom/tnt-sports-1-uk.png;
+[Inglaterra] TNT 2 GB;https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd;6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441;TNT.Sports.2.uk;united-kingdom/tnt-sports-2-uk.png;
+[Inglaterra] TNT 3 GB;https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd;4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f;TNT.Sports.3.uk;united-kingdom/tnt-sports-3-uk.png;
+[Inglaterra] TNT 4 GB;https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd;e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729;TNT.Sports.4.uk;united-kingdom/tnt-sports-4-uk.png;
+[Canada] SPORTSNETWORLD CA;https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd;44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682;Rogers.SportsNet.World.HDTV.(SNWLH).ca;canada/sportsnet-world-ca.png;
+[Serbia] ARENA SPORTSP 1 BH;https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-1-rs.png;
+[Serbia] ARENA SPORTSP 2 BH;https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-2-rs.png;
+[Serbia] ARENA SPORTSP 3 BH;https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-3-rs.png;
+[Serbia] ARENA SPORTS 1 BH;https://webtvstream.bhtelecom.ba/hls6/arena1.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-1-rs.png;
+[Serbia] ARENA SPORTS 2 BH;https://webtvstream.bhtelecom.ba/hls6/arena2.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-2-rs.png;
+[Serbia] ARENA SPORTS 3 BH;https://webtvstream.bhtelecom.ba/hls6/arena3.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-3-rs.png;
+[Serbia] ARENA SPORTS 4 BH;https://webtvstream.bhtelecom.ba/hls6/arena4.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-4-rs.png;
+[Serbia] ARENA SPORTS 5 BH;https://webtvstream.bhtelecom.ba/hls6/arena5.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-5-rs.png;
+[Serbia] ARENA SPORTS 6 BH;https://webtvstream.bhtelecom.ba/hls6/arena6.mpd;c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d;;serbia/arena-sport-6-rs.png;
+[Brasil] Premiere 4 BR;https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd;ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98;Premiere.HD.4.br;brazil/premiere-br.png;
+[Brasil] Premiere 5 BR;https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd;d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd;Premiere.HD.5.br;brazil/premiere-br.png;
+[Brasil] Premiere 6 BR;https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd;05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95;Premiere.HD.6.br;brazil/premiere-br.png;
+[Brasil] PRemiere;https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd;d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4;;brazil/premiere-br.png
+[Brasil] Premiere HD BR;https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd;d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4;Premiere.HD.br;brazil/premiere-br.png;
+[Brasil] SporTV 2 Brasil;https://sportscdn.net/hls/sportv2.m3u8;*https://vivolixopano.com;Sportv.2.br;brazil/sportv2-br.png;
+[Bélgica] VRT 1 BE;https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29;ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906;VRT.1.nl;belgium/vrt-1-be.png;
+[Republica Checa] CT Sport CZ;https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd;11223344556677889900112233445566:11223344556677889900112233445566;ÄŒT.Sport.cz;czech-republic/ct-sport-cz.png;
+
